@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masternonan
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP, React, IOT
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me masternonan@gmail.com
